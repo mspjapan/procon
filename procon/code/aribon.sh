@@ -1,0 +1,1 @@
+cp -R algorithm/ ../text/
